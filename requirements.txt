@@ -1,4 +1,4 @@
-python
-streamlit
+python-3.7.9
+streamlit==1.35.0
 joblib
 numpy
