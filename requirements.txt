@@ -1,4 +1,4 @@
-python==3.7.*
-streamlit==0.86.0
-joblib==1.0.1
-numpy==1.21.2
+python
+streamlit
+joblib
+numpy
