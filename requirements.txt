@@ -6,3 +6,4 @@ matplotlib
 seaborn
 scikit-learn
 navie_bayes
+python
