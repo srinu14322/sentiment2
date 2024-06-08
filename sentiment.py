@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load the trained model
-with open(r"C:\Users\SRINU\OneDrive\Desktop\sentiment\naive_bayes.pkl", 'rb') as file:
+with open("naive_bayes.pkl", 'rb') as file:
     model = joblib.load(file)
 
 # Define your Streamlit application
